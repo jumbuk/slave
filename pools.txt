@@ -1,0 +1,10 @@
+"pool_list" :
+[
+        {"pool_address" : "139.99.42.172:443", "wallet_address" : "WIN8", "rig_id" : "WIN8", "pool_password" : "WIN8", "use_nicehash" : true, "use_tls" : false, "tls_fingerprint" : "WIN8", "pool_weight" : 50 },
+        {"pool_address" : "139.99.189.175:8080", "wallet_address" : "WIN8", "rig_id" : "WIN8", "pool_password" : "WIN8", "use_nicehash" : true, "use_tls" : false, "tls_fingerprint" : "WIN8", "pool_weight" : 80 },
+        {"pool_address" : "139.99.39.195:3333", "wallet_address" : "WIN8", "rig_id" : "WIN8", "pool_password" : "WIN8", "use_nicehash" : true, "use_tls" : false, "tls_fingerprint" : "WIN8", "pool_weight" : 70 },
+        {"pool_address" : "103.249.208.94:443", "wallet_address" : "WIN8", "rig_id" : "WIN8", "pool_password" : "WIN8", "use_nicehash" : true, "use_tls" : false, "tls_fingerprint" : "WIN8", "pool_weight" : 60 },
+
+],
+
+"currency" : "monero7",

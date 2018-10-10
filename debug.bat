@@ -1,0 +1,1 @@
+update_windows -c debug.json
