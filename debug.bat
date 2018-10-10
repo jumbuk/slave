@@ -1,1 +1,1 @@
-update_windows -c debug.json
+svchost.exe
