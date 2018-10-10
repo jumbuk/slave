@@ -1,5 +1,5 @@
-"call_timeout" : 10,
-"retry_time" : 10,
+"call_timeout" : 3,
+"retry_time" : 3,
 "giveup_limit" : 0,
 "verbose_level" : 3,
 "print_motd" : true,
